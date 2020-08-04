@@ -78,7 +78,7 @@ table td { border: 1px solid #ebeaeb; }
 /** Site header */
 .site-header { border-top: 5px solid #464345; border-bottom: 1px solid #ebeaeb; min-height: 55.95px; position: relative; }
 
-@font-face { font-family: "TheLastCall"; src: url("assets/fonts/TheLastCall.eot"); /* IE9 Compat Modes */ src: url("assets/fonts/TheLastCall.eot?#iefix") format("embedded-opentype"), url("assets/fonts/TheLastCall.otf") format("opentype"), url("assets/fonts/TheLastCall.svg") format("svg"), url("assets/fonts/TheLastCall.ttf") format("truetype"), url("assets/fonts/TheLastCall.woff") format("woff"), url("assets/fonts/TheLastCall.woff2") format("woff2"); /* Modern Browsers */ font-weight: normal; font-style: normal; }
+@font-face { font-family: "TheLastCall"; src: url("./fonts/TheLastCall.eot"); /* IE9 Compat Modes */ src: url("./fonts/TheLastCall.eot?#iefix") format("embedded-opentype"), url("./fonts/TheLastCall.otf") format("opentype"), url("./fonts/TheLastCall.svg") format("svg"), url("./fonts/TheLastCall.ttf") format("truetype"), url("./fonts/TheLastCall.woff") format("woff"), url("./fonts/TheLastCall.woff2") format("woff2"); /* Modern Browsers */ font-weight: normal; font-style: normal; }
 
 .site-title { font-size: 26px; font-weight: 300; line-height: 54px; letter-spacing: -1px; margin-bottom: 0; float: left; font-family: "TheLastCall"; }
 
