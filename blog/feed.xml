@@ -1,1 +1,202 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="robertedwardes.com/blog/feed.xml" rel="self" type="application/atom+xml" /><link href="robertedwardes.com/blog/" rel="alternate" type="text/html" /><updated>2020-11-01T11:30:33-05:00</updated><id>robertedwardes.com/blog/feed.xml</id><title type="html">Yet Another Photographer Blog (YAPB)</title><subtitle>Exploring Cities, Towns, and Trails going off the beaten path to documenty the art and the envorment around it. Shooting for analog and Infared.</subtitle></feed>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="robertedwardes.com/blog/feed.xml" rel="self" type="application/atom+xml" /><link href="robertedwardes.com/blog/" rel="alternate" type="text/html" /><updated>2020-12-25T11:24:50-05:00</updated><id>robertedwardes.com/blog/feed.xml</id><title type="html">Yet Another Photographer Blog (YAPB)</title><subtitle>Looking at how to make images and reaprotrate them to show our story and our world around us.</subtitle><entry><title type="html">Short Guide to Basic Photo Editing apps</title><link href="robertedwardes.com/blog/2020/12/25/RundownandOverViewOfEditingSoftware.html" rel="alternate" type="text/html" title="Short Guide to Basic Photo Editing apps" /><published>2020-12-25T00:00:00-05:00</published><updated>2020-12-25T00:00:00-05:00</updated><id>robertedwardes.com/blog/2020/12/25/RundownandOverViewOfEditingSoftware</id><content type="html" xml:base="robertedwardes.com/blog/2020/12/25/RundownandOverViewOfEditingSoftware.html">&lt;h1 id=&quot;what-is-included-in-this-guide&quot;&gt;What is Included in this Guide&lt;/h1&gt;
+
+&lt;p&gt;This guide just focuses on programs that are meant to process Raw images this excludes software like Photoshop and Affinity Photo and just focuses on the tools that will help you bring out the colors and details and use the dynamic range of you cameras raw file. While the User Interfaces do have some differences it the under lining&lt;/p&gt;
+
+&lt;h2 id=&quot;lightroom&quot;&gt;Lightroom&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.adobe.com/products/photoshop-lightroom.html&quot;&gt;Lightroom(LR)&lt;/a&gt; is from Adobe and is considered the standard, but is often paired with Photoshop due to the limitation of the program that has been reduced over time. The most recent update is the Color Grading tool that was seen as a welcome addition because of the adhoc solution used prior with split toning.&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th style=&quot;text-align: left&quot;&gt;Pros&lt;/th&gt;
+      &lt;th style=&quot;text-align: left&quot;&gt;Cons&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Large Support and Extensive Community&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Monthly Subscription Only&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Mobile App Support&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Updates aren’t always meaningful&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Autotagging of generic keywords&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Hogs Computer Resources&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h4 id=&quot;cost-basic-plan&quot;&gt;Cost (Basic Plan)&lt;/h4&gt;
+&lt;p&gt;| Category| Description |
+|:– | :–:|
+|Cost| $9.99/month|
+|Includes|  1TB of cloud storage|
+| +|Adobe Portfolio (a website builder)|
+|+| Adobe Spark (for creating social graphics, videos and web pages)|&lt;/p&gt;
+
+&lt;h4 id=&quot;minimum-system-requirements&quot;&gt;Minimum System Requirements&lt;/h4&gt;
+
+&lt;p&gt;Desktop:&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;PC&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;Mac&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Windows 10 (64-bit), 2-GHz processor, 4GB of RAM (8 GB recommended), 2GB hard disk space&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;MacOS v.10.13, 4GB of RAM (8GB recommended), 2GB of available hard-disk space.&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;Mobile:&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;Android&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;iOS&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Android 5.x (Lollipop), 1.5GHz Quad Core CPU, 1 GB RAM, (4 GB or more recommended), 8GB hard disk space&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Any iPhone or iPad that runs iOS 12.3 or later. This includes: iPhone 5S (2013) and later, iPad Mini 2 (2013) and later, iPad Air 1 (2013) and later, and iPod Touch 6th Generation (2015).&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h2 id=&quot;capture-onecapture-one-express&quot;&gt;Capture One/Capture One Express&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.captureone.com/en&quot;&gt;Capture One(C1)&lt;/a&gt; and Capture One Express is seen as the professional alternative to Lightroom and has focused on being a more complete stand alone product. This include a more expansive masking, color grading workflow, and includes studio focused features like tethering. Though at the cost of a seamless workflow between programs(Video, Publishing, and Design) that only Adobe can offer.&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th style=&quot;text-align: left&quot;&gt;Pros&lt;/th&gt;
+      &lt;th style=&quot;text-align: left&quot;&gt;Cons&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Strong Community and Company Support&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Limited plug-ins&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Non-Subscription model&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Lacks feature like HDR and Panoramic&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Leader in Color grading and Correcting&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Lacks Adobe ecosystem&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h4 id=&quot;what-is-capture-one-express&quot;&gt;What is Capture One Express&lt;/h4&gt;
+&lt;p&gt;Capture One Express is a free version of Capture One for Nikon, Sony, or Fujifilm systems, with each having their own version to  download. The major limitations of it are the lack of layer meaning it’s only global adjustments and only a basic color editor.&lt;/p&gt;
+
+&lt;h4 id=&quot;cost-basic-plan-1&quot;&gt;Cost (Basic Plan)&lt;/h4&gt;
+&lt;p&gt;| Category| Description |
+|:– | :–:|
+|Cost| Single Manufacturer(Sony, Nikon, Fujifilm): $9.99/month or $120.00 (1 licenses)|
+|+| Single Manufacturer(Sony, Nikon, Fujifilm): Free Express Versions|
+|+ | Multi Manufacturer: $20.00/month or $299.00 (2 licenses)|
+|Includes| None|&lt;/p&gt;
+
+&lt;h4 id=&quot;minimum-system-requirements-1&quot;&gt;Minimum System Requirements&lt;/h4&gt;
+
+&lt;p&gt;Desktop Only:&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;PC&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;Mac&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Intel or AMD CPU with 2 cores, 8 GB of RAM and  10 GB of free hard disk space. Windows 8.1 (64-bit)&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Intel® Core™ i3 (1st generation), 8 GB of RAM and 10 GB of free hard disk space. macOS 10.13&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h2 id=&quot;darktable&quot;&gt;Darktable&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.darktable.org/&quot;&gt;Darktable&lt;/a&gt; is a free open source solution for editing and raw processing and has seen a growing community with some guides ranging in quality. The biggest draw back to Darktable is the learning curve because while it is as powerful as C1 and LR it doesn’t have as intuitive or refined interface.&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th style=&quot;text-align: left&quot;&gt;Pros&lt;/th&gt;
+      &lt;th style=&quot;text-align: left&quot;&gt;Cons&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Free&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Steep Learning Curve&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Wide range of tools and features&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Community is still behind paid version with their in house videos&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h2 id=&quot;luminar-ai&quot;&gt;Luminar AI&lt;/h2&gt;
+
+&lt;p&gt;Luminar AI is the most social media focus of the 4 because of it auto masking letting you do things like sky replacements and sun rays with out the need for Photoshop or Affinity Photo. The issue come from the lack of community support though most YouTube channels to focus on photography have reviewed it, and that it does not run well as a stand alone program due to the issue with resource management &lt;a href=&quot;https://www.reddit.com/r/photography/comments/kessqx/luminar_4_ai_review/&quot;&gt;reddit talk about the issue&lt;/a&gt;.&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th style=&quot;text-align: left&quot;&gt;Pros&lt;/th&gt;
+      &lt;th style=&quot;text-align: left&quot;&gt;Cons&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Auto mask feature&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Runs Slowly&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Simple UI&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Has issues with updates in older versions&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h4 id=&quot;cost-basic-plan-2&quot;&gt;Cost (Basic Plan)&lt;/h4&gt;
+&lt;p&gt;| Category| Description |
+|:– | :–:|
+|Cost|  2 licenses $99 |
+|+ | 1 license $79|
+|Includes| None|&lt;/p&gt;
+
+&lt;h4 id=&quot;minimum-system-requirements-2&quot;&gt;Minimum System Requirements&lt;/h4&gt;
+
+&lt;p&gt;Desktop Only:&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;PC&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;Mac&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Intel® Core™ i5 or better, AMD Ryzen™ 5, 8 GB of RAM (16GB+ recommended) and  10 GB of free hard disk space. Windows 10 (64-bit), and Open GL 3.3 or later compatible graphics card&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Intel® Core™ i5 , 8 GB of RAM (16GB+ recommended) and 10 GB of free hard disk space. macOS 10.13&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;</content><author><name></name></author><summary type="html">What is Included in this Guide</summary></entry></feed>
